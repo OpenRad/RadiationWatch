@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="@string/calibration_coefficient_title" >
+		<EditTextPreference
+		    android:key="calibration_coefficient"
+		    android:inputType="numberDecimal"
+		    android:digits="0123456789."
+		    android:maxLength="16"
+		    android:defaultValue="53.032"
+		    android:title="@string/calibrationcoefficient_title"
+		    android:dialogTitle="@string/calibrationcoefficient_title" />
+		<EditTextPreference
+		    android:key="calibration_offset"
+		    android:inputType="numberDecimal|numberSigned"
+		    android:digits="0123456789.-"
+		    android:maxLength="16"
+		    android:defaultValue="0"
+		    android:title="@string/calibrationoffset_title"
+		    android:dialogTitle="@string/calibrationoffset_title" />
+		</PreferenceCategory>
+
+</PreferenceScreen>

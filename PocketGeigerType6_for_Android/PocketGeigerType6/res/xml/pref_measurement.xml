@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="@string/measurement_time_title" >
+    	<ListPreference
+            android:defaultValue="600"
+            android:entries="@array/measurementtime_entries"
+            android:entryValues="@array/measurementtime_entryvalues"
+            android:key="measurementtime_list"
+            android:summary="@string/measurementtime_summary"
+            android:title="@string/measurementtime_title" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00000000"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin" >
+    
+	<RelativeLayout
+        android:id="@+id/controlViewPanel"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    >
+	    
+	    <ProgressBar
+	        android:id="@+id/progressBar1"
+	        style="?android:attr/progressBarStyleHorizontal"
+	        android:layout_width="160dp"
+	        android:layout_height="30dp"
+        	android:layout_marginTop="280dp"
+        	android:layout_marginLeft="120dp"
+	         />
+	    
+		<Switch
+	        android:id="@+id/Measure_Switch"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+        	android:layout_marginTop="570dp"
+        	android:layout_marginLeft="250dp"
+	        android:text="" />
+	    
+	    <SeekBar
+	        android:id="@+id/seekBar1"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+        	android:layout_marginTop="700dp"
+        	android:layout_marginLeft="20dp"
+	         />
+
+	    </RelativeLayout>
+	    	
+    <LinearLayout
+        android:id="@+id/StatusViewPanel_Status"
+        android:visibility="visible"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+ 
+        <ScrollView
+            android:id="@+id/svText"
+	        android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+             >
+
+            <TextView
+                android:id="@+id/tvSerial"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="" />
+
+        </ScrollView>
+
+    </LinearLayout>
+    
+</LinearLayout>
