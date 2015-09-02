@@ -1,3 +1,13 @@
+commit 906c5b123e0bf3c2a8aa2e857fa040e6cf87ad6e
+Date:   Mon Aug 31 19:56:55 2015 +0300
+
+    Added PocketGeigerType6_for_Android
+
+commit fa050ab829f688a3bf3805968bdf20e66596f996
+Date:   Mon Aug 31 19:54:46 2015 +0300
+
+    Initial commit
+
 commit 5ea213a60ce72a2dcbb8c8b665739275e3e81690
 Date:   Mon Aug 31 16:20:36 2015 +0000
 

@@ -9,3 +9,9 @@ http://radiation-watch.org
 From
 http://radiation-watch.sakuraweb.com/share/PocketGeigerType6_for_Windows.zip
 
+## PocketGeigerType6_for_Android
+
+From
+http://radiation-watch.sakuraweb.com/share/PocketGeigerType6_for_Android.zip
+
+

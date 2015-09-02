@@ -1,0 +1,22 @@
+C:\Users\nori\documents\visual studio 2010\Projects\PocketGeigerType6\PocketGeigerType6\bin\Release\PocketGeigerType6.exe.config
+C:\Users\nori\documents\visual studio 2010\Projects\PocketGeigerType6\PocketGeigerType6\bin\Release\PocketGeigerType6.exe
+C:\Users\nori\documents\visual studio 2010\Projects\PocketGeigerType6\PocketGeigerType6\bin\Release\PocketGeigerType6.pdb
+C:\Users\nori\documents\visual studio 2010\Projects\PocketGeigerType6\PocketGeigerType6\bin\Release\PocketGeigerType6.xml
+C:\Users\nori\documents\visual studio 2010\Projects\PocketGeigerType6\PocketGeigerType6\obj\x86\Release\PocketGeigerType6.Form1.resources
+C:\Users\nori\documents\visual studio 2010\Projects\PocketGeigerType6\PocketGeigerType6\obj\x86\Release\PocketGeigerType6.Form2.resources
+C:\Users\nori\documents\visual studio 2010\Projects\PocketGeigerType6\PocketGeigerType6\obj\x86\Release\PocketGeigerType6.Resources.resources
+C:\Users\nori\documents\visual studio 2010\Projects\PocketGeigerType6\PocketGeigerType6\obj\x86\Release\PocketGeigerType6.vbproj.GenerateResource.Cache
+C:\Users\nori\documents\visual studio 2010\Projects\PocketGeigerType6\PocketGeigerType6\obj\x86\Release\PocketGeigerType6.exe
+C:\Users\nori\documents\visual studio 2010\Projects\PocketGeigerType6\PocketGeigerType6\obj\x86\Release\PocketGeigerType6.xml
+C:\Users\nori\documents\visual studio 2010\Projects\PocketGeigerType6\PocketGeigerType6\obj\x86\Release\PocketGeigerType6.pdb
+C:\Users\nori\Documents\Visual Studio 2010\Projects\PocketGeigerType6 for win\PocketGeigerType6\bin\Release\PocketGeigerType6.exe.config
+C:\Users\nori\Documents\Visual Studio 2010\Projects\PocketGeigerType6 for win\PocketGeigerType6\obj\x86\Release\PocketGeigerType6.exe
+C:\Users\nori\Documents\Visual Studio 2010\Projects\PocketGeigerType6 for win\PocketGeigerType6\obj\x86\Release\PocketGeigerType6.xml
+C:\Users\nori\Documents\Visual Studio 2010\Projects\PocketGeigerType6 for win\PocketGeigerType6\obj\x86\Release\PocketGeigerType6.pdb
+C:\Users\nori\Documents\Visual Studio 2010\Projects\PocketGeigerType6 for win\PocketGeigerType6\bin\Release\PocketGeigerType6.exe
+C:\Users\nori\Documents\Visual Studio 2010\Projects\PocketGeigerType6 for win\PocketGeigerType6\bin\Release\PocketGeigerType6.pdb
+C:\Users\nori\Documents\Visual Studio 2010\Projects\PocketGeigerType6 for win\PocketGeigerType6\bin\Release\PocketGeigerType6.xml
+C:\Users\nori\Documents\Visual Studio 2010\Projects\PocketGeigerType6 for win\PocketGeigerType6\obj\x86\Release\PocketGeigerType6.Form1.resources
+C:\Users\nori\Documents\Visual Studio 2010\Projects\PocketGeigerType6 for win\PocketGeigerType6\obj\x86\Release\PocketGeigerType6.Form2.resources
+C:\Users\nori\Documents\Visual Studio 2010\Projects\PocketGeigerType6 for win\PocketGeigerType6\obj\x86\Release\PocketGeigerType6.Resources.resources
+C:\Users\nori\Documents\Visual Studio 2010\Projects\PocketGeigerType6 for win\PocketGeigerType6\obj\x86\Release\PocketGeigerType6.vbproj.GenerateResource.Cache
